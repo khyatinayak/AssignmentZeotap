@@ -5,15 +5,18 @@ Customer Segmentation using K-Means Clustering
 Lookalike Modeling for Customer Acquisition
 Exploratory Data Analysis (EDA) on Customer Data
 
-Overview
+# Overview
+
 Task 1: Exploratory Data Analysis (EDA)
 Objective: To analyze the customer dataset and uncover key insights about customer behavior.
 Methodology: Various EDA techniques such as summary statistics, visualizations, and correlation analysis were applied.
 Results: The EDA revealed trends and patterns in customer data, which are essential for data-driven decision-making. 
+
 Task 2: Lookalike Modeling for Customer Acquisition
 Objective: To identify potential customers that resemble existing high-value customers.
 Methodology: Using machine learning techniques, a lookalike model was built based on the behavior and demographics of high-value customers.
 Results: The model helps in targeting new prospects similar to top-performing customers, improving marketing and sales strategies.
+
 Task 3: Customer Segmentation
 Objective: To segment customers based on their spending behavior and demographic data.
 Methodology: K-Means Clustering was applied to segment customers into distinct groups. The optimal number of clusters was determined using metrics such as the Davies-Bouldin Index (DB Index) and the Silhouette Score.
