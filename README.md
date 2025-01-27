@@ -26,8 +26,13 @@ File Naming Convention
 # The following naming convention has been used for the files in this repository:
 
 FirstName_LastName_EDA.pdf
+
 FirstName_LastName_EDA.ipynb
+
 FirstName_LastName_Lookalike.csv
+
 FirstName_LastName_Lookalike.ipynb
+
 FirstName_LastName_Clustering.pdf
+
 FirstName_LastName_Clustering.ipynb
