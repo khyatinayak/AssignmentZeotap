@@ -23,7 +23,8 @@ Methodology: K-Means Clustering was applied to segment customers into distinct g
 Results: The customer segments provide valuable insights into different types of consumers, with recommendations for targeted marketing strategies.
 File Naming Convention
 
-The following naming convention has been used for the files in this repository:
+# The following naming convention has been used for the files in this repository:
+
 FirstName_LastName_EDA.pdf
 FirstName_LastName_EDA.ipynb
 FirstName_LastName_Lookalike.csv
